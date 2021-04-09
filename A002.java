@@ -1,4 +1,4 @@
-public class Greeting2 {
+class A002 {
 
   public static void main(String[] args) {
     moring();
