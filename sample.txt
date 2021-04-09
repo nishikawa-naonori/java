@@ -1,0 +1,4 @@
+リンゴ オレンジ レモン
+Hello.
+It's nice weather today, is not it.
+Goodbye. See you again.
