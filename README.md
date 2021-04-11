@@ -25,8 +25,11 @@
 
 # nextLine()
 
-
 # InputMismatchException()
+
+# import
+java.time.LocalDate;   → 現在日付の取得
+java.util.Scanner;     → 入力した値を取得する
 
 
 
