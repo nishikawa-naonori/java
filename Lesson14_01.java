@@ -22,7 +22,7 @@ class Student {
   }
 }
 
-public class Lesson14_01{
+class Lesson14_01{
   public static void main(String[] args){
     Student a001 = new Student();
     a001.name = "sato";

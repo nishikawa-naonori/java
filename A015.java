@@ -8,6 +8,6 @@ class A015 {
     String userName = myObj.nextLine();  // userNameを読み込む。
     System.out.println("ユーザー名:" + userName);  // userNameを出力。
 
-
+    myObj.close();
   }
 }
