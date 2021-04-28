@@ -5,6 +5,10 @@ class Lesson06_01 {
     var = 1;
 
     System.out.println(var);
+
+   String player = "勇者";
+   System.out.println(player);
+
   }
 }
 
